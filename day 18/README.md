@@ -1,0 +1,1 @@
+Day 18: The CUDA version uses shared memory tiling to reduce global memory access, while the PyTorch version simulates tiling by processing chunks (though F.conv1d is already optimized internally)
