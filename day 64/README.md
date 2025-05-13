@@ -1,0 +1,2 @@
+day_64_gaussian_histogram_loss.cu 
+day_64_gaussian_histogram_loss.py
